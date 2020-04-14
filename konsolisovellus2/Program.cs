@@ -8,6 +8,10 @@ namespace konsolisovellus2
         {
             //tämän muutin
             Console.WriteLine("Heippa mualima!");
+
+            // uusi muutos
+            Console.WriteLine("ja uusin juttu!");
+
         }
     }
 }
