@@ -6,7 +6,8 @@ namespace konsolisovellus2
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            //tämän muutin
+            Console.WriteLine("Heippa mualima!");
         }
     }
 }
