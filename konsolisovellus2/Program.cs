@@ -12,6 +12,8 @@ namespace konsolisovellus2
             // uusi muutos
             Console.WriteLine("ja uusin juttu!");
 
+            // toinen tunnus ja toinen kone
+            Console.WriteLine("tämän lisäsisn toisella tunnuksella!");
         }
     }
 }
